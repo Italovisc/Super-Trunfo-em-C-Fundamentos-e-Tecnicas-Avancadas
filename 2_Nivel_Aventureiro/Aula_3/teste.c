@@ -1,1 +1,0 @@
-// testando acesso a repositórios remotos
